@@ -1,0 +1,1 @@
+My first MLP made with help from [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) and a little bit of help from [this book](http://neuralnetworksanddeeplearning.com/index.html)
